@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **team leadership, communication skills, and project coordination**
 
-- 📫 Reach me at **isurikaathapaththu@email.com**
+- 📫 Reach me at **prathiisurika@gmail.com**
 
 </td>
 <td width="50%" align="center">
