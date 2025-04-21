@@ -6,7 +6,7 @@
 
 <h2 align="center" style="font-family: 'Arial', sans-serif; color: #FF5722;">
   Check out my portfolio: 
-  <a href="https://isurikaprathi97.github.io/" target="_blank" style="text-decoration: none; color: #FF5722;">isurikaprathi97.github.io
+  <a href="https://prathiisurika.wixsite.com/portfolio" target="_blank" style="text-decoration: none; color: #FF5722;">isurikaprathi97.github.io
   </a>
 </h2>
 
