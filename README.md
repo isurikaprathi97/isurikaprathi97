@@ -68,7 +68,7 @@
 <a href="https://www.instagram.com/isurika_athapaththu/" target="blank">
   <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Instagram" height="50" width="50" />
 </a>
-<a href="mailto:isurikaathapaththu@email.com" target="blank">
+<a href="prathiisurika@gmail.com" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="50" width="50" />
 </a>
 </p>
