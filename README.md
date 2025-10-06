@@ -1,6 +1,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Welcome+to+my+profile!!" alt="Title"></img>
 </div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif?raw=true" width="100px" alt="Profile Image">
+</p>
 <h1 align="center">Hi 👋, I'm Isurika Athapaththu</h1>
 <h3 align="center">BSc Information Technology Graduate | Passionate About Front-End & Web Development</h3>
 
