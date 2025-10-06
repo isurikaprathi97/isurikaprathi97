@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyy!+I'm+Isurika+Athapaththu;Passionate+about+Web+Development;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Welcome+to+my+profile!!" alt="Title"></img>
 </div>
 <h1 align="center">Hi 👋, I'm Isurika Athapaththu</h1>
 <h3 align="center">BSc Information Technology Graduate | Passionate About Front-End & Web Development</h3>
