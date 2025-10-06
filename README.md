@@ -36,7 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isurikaprathi97&show_icons=true&locale=en" alt="isurikaprathi97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isurikaprathi97&" alt="isurikaprathi97" /></p>
-
+<div align="center">
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -44,3 +44,4 @@
 [![](https://visitcount.itsvg.in/api?id=Aneal07&icon=2&color=4)](https://visitcount.itsvg.in)
 
 ------
+</div>
