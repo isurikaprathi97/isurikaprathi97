@@ -3,6 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isurikaprathi97&label=Profile%20views&color=0e75b6&style=flat" alt="isurikaprathi97" /> </p>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 - 🌱 I’m currently learning **More About Front-end and WordPress Development to Enhance My Web Development Skills.**
 
 - 💬 Ask me about **Web Development**
