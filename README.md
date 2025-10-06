@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Isurika Athapaththu</h1>
 <h3 align="center">BSc Information Technology Graduate | Passionate About Front-End & Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isurikaprathi97&label=Profile%20views&color=0e75b6&style=flat" alt="isurikaprathi97" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=isurikaprathi97&label=Profile%20views&color=0e75b6&style=flat" alt="isurikaprathi97" /> </p>
 
-- 🌱 I’m currently learning **more about front-end and WordPress development to enhance my web development skills.**
+- 🌱 I’m currently learning **More About Front-end and WordPress Development to Enhance My Web Development Skills.**
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **prathiisurika@gmail.com**
 
